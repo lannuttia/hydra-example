@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 
+  annotations:
+    github.com/project-slug: App Dev Platform/backstage-templates/Software Templates
+spec:
+  type: service
+  owner: "group:default/lannuttia"
+  lifecycle: production
